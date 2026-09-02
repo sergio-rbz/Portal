@@ -1,0 +1,11 @@
+# Escludi tutti i file di backup .war
+*.war
+**/Backups/
+
+# Escludi i file generati da IntelliJ e Java
+.idea/
+*.iml
+out/
+target/
+
+anon_images_Top.png
